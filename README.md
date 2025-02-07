@@ -1,1 +1,1 @@
-# Pathaloggy-Management-System-
+# Pathalogy-Managment-System-
